@@ -9,7 +9,7 @@
 
 
 ### Мой стек:
-![JavaScript](https://img.shields.io/badge/-JavaScript-003f5c?style=for-the-badge&logo=appveyor)
+![JavaScript](https://img.shields.io/badge/-JavaScript-003f5c)
   
 
 
