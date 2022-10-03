@@ -9,7 +9,7 @@
 
 
 ### Мой стек:
-![JavaScript](https://img.shields.io/badge/-JavaScript-003f5c)
+![JavaScript](https://img.shields.io/badge/-JavaScript-003f5c)  ![HTML5](https://img.shields.io/badge/-HTML5-003f5c)
   
 
 
