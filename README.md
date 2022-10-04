@@ -9,7 +9,7 @@
 
 
 ### Мой стек:
-![JavaScript](https://img.shields.io/badge/-JavaScript-003f5c)  ![HTML5](https://img.shields.io/badge/-HTML5-003f5c)  ![CSS](https://img.shields.io/badge/-CSS-003f5c)  ![Bootstrap](https://img.shields.io/badge/-Bootstrap-003f5c)  ![React](https://img.shields.io/badge/-React-003f5c)  )  ![git](https://img.shields.io/badge/-git-003f5c)  ![GitHub](https://img.shields.io/badge/-GitHub-003f5c)  ![VS_Code](https://img.shields.io/badge/-VS_Code-003f5c)  ![MongoDB](https://img.shields.io/badge/-MongoDB-003f5c)  ![Node.js](https://img.shields.io/badge/-Node.js-003f5c)
+![JavaScript](https://img.shields.io/badge/-JavaScript-003f5c)  ![HTML5](https://img.shields.io/badge/-HTML5-003f5c)  ![CSS](https://img.shields.io/badge/-CSS-003f5c)  ![Bootstrap](https://img.shields.io/badge/-Bootstrap-003f5c)  ![React](https://img.shields.io/badge/-React-003f5c)  ![git](https://img.shields.io/badge/-git-003f5c)  ![GitHub](https://img.shields.io/badge/-GitHub-003f5c)  ![VS_Code](https://img.shields.io/badge/-VS_Code-003f5c)  ![MongoDB](https://img.shields.io/badge/-MongoDB-003f5c)  ![Node.js](https://img.shields.io/badge/-Node.js-003f5c)
 
 ### Я в соцсетях
 [![Vkontakte](https://img.shields.io/badge/-Vkontakte-003f5c?style=for-the-badge&logo=Vk)](https://vk.com/nata.radina)
