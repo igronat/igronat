@@ -14,9 +14,9 @@
 ### Я в соцсетях
 [![Vkontakte](https://img.shields.io/badge/-Vkontakte-003f5c?style=for-the-badge&logo=Vk)](https://vk.com/nata.radina)
 
-
+--
 📫 How to reach me: natalia.radina@gmail.com
-
+--
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=igronat)](https://git.io/streak-stats)
 
